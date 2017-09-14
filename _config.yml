@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "LIISim"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
