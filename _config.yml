@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en"
-title                    : "LIISim"
+title                    : "LIISim Project"
 title_separator          : "-"
 name                     : "University of Duisburg-Essen"
 description              : "A modular signal processing toolbox for laser-induced incandescence (LII) measurements"
