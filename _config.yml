@@ -5,18 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+# see also https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
+minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "LIISim"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "University of Duisburg-Essen"
+description              : "A modular signal processing toolbox for laser-induced incandescence (LII) measurements"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "LIISim/LIISim3" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/screenshots/2017-07-31_V3.0.4_SignalProcessing.png" # path of fallback teaser image, e.g. 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "LIISim"
   gitlab           :
   google_plus      :
   keybase          :
@@ -114,6 +116,7 @@ author:
 include:
   - .htaccess
   - _pages
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -140,6 +143,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  
 keep_files:
   - .git
   - .svn
@@ -175,6 +179,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+#permalink: /about
+#permalink: /releases
+
+
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -242,8 +251,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: false# true
       share: true
       related: true
