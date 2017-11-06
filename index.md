@@ -80,7 +80,7 @@ nanoparticles**. These new applications require the same basic signal processing
 but at the same time individual databases for material (soot or non-soot) and 
 gas compositions as well as individual heat transfer models for the 
 determination of particle sizes. **LIISim** is a framework for basic signal processing 
-and analysis experimental LII data to help researches across the world to compare their 
+and analysis of experimental LII data to help researches across the world to compare their 
 experimental data. 
                   
 **LIISim is a project of** <br>
@@ -90,6 +90,9 @@ alt="University of Duisburg-Essen" style="height:70px"></a>
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:89px"></a>
 
 <br>
+
+The old LIISim.com web interface (by Max Hofmann) can be found [here](http://service.cfd.uni-due.de/LIISim/){:target="_blank"}. 
+{: .notice--warning}
                   
 ## Motivation
 
