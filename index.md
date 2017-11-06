@@ -89,7 +89,6 @@ alt="University of Duisburg-Essen" style="height:70px"></a>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:89px"></a>
 
-<br>
 
 The old LIISim.com web interface (by Max Hofmann) can be found [here](http://service.cfd.uni-due.de/LIISim/){:target="_blank"}. 
 {: .notice--warning}
