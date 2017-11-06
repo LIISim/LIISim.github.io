@@ -90,7 +90,7 @@ alt="University of Duisburg-Essen" style="height:70px"></a>
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:89px"></a>
 
 
-The old LIISim.com web interface (by Max Hofmann) can be found [here](http://service.cfd.uni-due.de/LIISim/){:target="_blank"}. 
+The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
 {: .notice--warning}
                   
 ## Motivation
@@ -166,7 +166,7 @@ In 2013 the development of **LIISim 3** a new framework with object-oriented str
 designed for the application on individual material systems (soot and non-soot) with a modular implementation of signal 
 processing steps and choice of heat-transfer models.
                                                                           
-The old LIISim.com web interface (by Max Hofmann) can be found [here](http://service.cfd.uni-due.de/LIISim/){:target="_blank"}. 
+The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
 {: .notice--warning}
   
 <b>Authors</b> <br>
