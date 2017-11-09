@@ -141,7 +141,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | Windows 7/8/10 (x32) | 3.0.4 (BETA) | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info }|
 
 
-## Source
+## Source Code
 The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
 
 
