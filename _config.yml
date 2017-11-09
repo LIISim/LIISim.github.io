@@ -12,6 +12,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 # Site Settings
 locale                   : "en"
 title                    : "LIISim - Signal processing tool for laser-induced incandesence"
+title_nav                : "LIISim"
 title_page               : "LIISim Project"
 title_separator          : "-"
 name                     : "University of Duisburg-Essen"
