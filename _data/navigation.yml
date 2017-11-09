@@ -8,5 +8,7 @@ main:
     url: /#documentation
   - title: "Downloads"
     url: /#downloads  
+  - title: "Source Code"
+    url: /#source  
   - title: "About"
     url: /#about
