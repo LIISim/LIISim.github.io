@@ -85,9 +85,9 @@ experimental data.
                   
 **LIISim is a project of** <br>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/UDE_logo_claim_72dpi_rgb.jpg"
-alt="University of Duisburg-Essen" style="height:89px"></a>
+alt="University of Duisburg-Essen" style="height:120px"></a>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
-alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:89px"></a>
+alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
 
 
 The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
