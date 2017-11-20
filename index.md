@@ -84,7 +84,7 @@ and analysis of experimental LII data to help researches across the world to com
 experimental data. 
                   
 **LIISim is a project of** <br>
-<a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/UDE_logo_claim_72dpi_rgb.jpg"
+<a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:120px"></a>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
@@ -148,10 +148,10 @@ The latest source code can be obtained from [GitHub](https://www.github.com/LIIS
 ## About
 
 **LIISim is a project of** <br>
-<a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/UDE_logo_claim_72dpi_rgb.jpg"
-alt="University of Duisburg-Essen" style="height:70px"></a>
+<a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
+alt="University of Duisburg-Essen" style="height:120px"></a>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
-alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:89px"></a>
+alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
 <br>
 
 **History**<br>
