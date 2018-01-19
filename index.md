@@ -32,8 +32,8 @@ feature_row2:
   - image_path: /assets/screenshots/2017-07-31_V3.0.4_AToolTemperature.png
     alt: "placeholder image 2"
     title: "AnalysisTool: Temperature Fit"
-    excerpt: "Visualization of spectral temperature fitting using Planck's law. Temperature traces, 
-    which are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."    
+    excerpt: "Visualization of spectral temperature fitting using Planck's law. Temperature traces
+    that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."    
     url: "/assets/screenshots/2017-07-31_V3.0.4_AToolTemperature.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
@@ -41,7 +41,7 @@ feature_row2:
 feature_row3:        
   - image_path: /assets/screenshots/2017-07-31_V3.0.4_ParameterAnalysis.png
     title: "AnalysisTool: Parameter Analysis"
-    excerpt: "Experimental data can be sytematically compared for different parameters
+    excerpt: "Experimental data can be systematically compared for various parameters
      (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)."                                                        
     url: "/assets/screenshots/2017-07-31_V3.0.4_ParameterAnalysis.png"
 #    btn_label: "Zoom in"
@@ -51,7 +51,7 @@ feature_row4:
   - image_path: /assets/screenshots/2017-07-31_V3.0.4_FitCreator.png
     alt: "placeholder image 2"
     title: "FitCreator"
-    excerpt: 'Use different heat transfer models and databases for simulation of LII signal
+    excerpt: 'Select from a variety of heat transfer models and databases for simulation of LII signal
      traces and comparison with experimental data.'                                                                        
     url: "/assets/screenshots/2017-07-31_V3.0.4_FitCreator.png"
 #    btn_label: "Zoom in"
@@ -73,7 +73,7 @@ feature_row4:
 
 
 **Laser-induced incandescence (LII)** is a non-intrusive method of measuring 
-time-resolved soot particle volume fraction and primary particle sizes in flames.
+soot particle volume fraction and primary particle sizes in flames.
 Not only restricted to flames, this technique is recently used for characterization
  of **car engine exhaust**, **atmospheric black carbon** and **synthetic 
 nanoparticles**. These new applications require the same basic signal processing, 
@@ -100,12 +100,12 @@ setting of processing parameters, visualization of intermediate processing steps
 comparison of multiple experimental data sets.
 
 Main features:
-- modular choice of user-defined material properties (soot, silicon, germanium,...)
-- comparison of experimental data with different pre-implemented heat-transfer models
-- easy-to-use import (TXT/CSV) and export (TXT/CSV/MATLAB) functionalities
-- copy/paste of signals and analysis results into spreadsheet software (MATLAB, Excel, Origin,...)
-- software architecture allows processing and comparison of large data sets (> 4 GB) 
-- various analysis tools help visualizing dependencies between experimental data sets (plots, parameter comparison, statistical information)
+- Modular choice of user-defined material properties (soot, silicon, germanium,...)
+- Comparison of experimental data with different pre-implemented heat-transfer models
+- Various analysis tools help visualizing dependencies between experimental data sets (plots, parameter comparison, statistical information)
+- Easy-to-use import (TXT/CSV) and export (TXT/CSV/MATLAB) functionalities
+- Copy/paste of signals and analysis results into spreadsheet software (MATLAB, Excel, Origin,...)
+- Software architecture allows processing and comparison of large data sets (> 4 GB) 
 
 
 ## Screenshots
@@ -124,7 +124,7 @@ Main features:
 
 | Document | Version | File|
 | ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.0  | [not yet available](){: .btn .btn--primary } |
+| User manual | 0.0.1 (19.01.2018) | [on request](#){: .btn .btn--primary } |
 | Developer's guide | 0.0.0 | [not yet available](#){: .btn .btn--primary } |
 
 
@@ -137,8 +137,8 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 
 | Platform | Version | File|
 | ------------------------------------------- | ----------------------------------------------------- |
-| Windows 7/8/10 (x64) | 3.0.4 (BETA) | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } |
-| Windows 7/8/10 (x32) | 3.0.4 (BETA) | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info }|
+| Windows 7/8/10 (x64) | 3.0.5 (BETA) | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } |
+| Windows 7/8/10 (x32) | 3.0.5 (BETA) | [not yet available](#){: .btn .btn--info }|
 
 
 ## Source code
@@ -177,7 +177,9 @@ Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](
 Tobias Terheiden 
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Tobias_Terheiden){:target="_blank"}
 <br>
-Philip Schmidt <br>
+Philip Schmidt 
+[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
+<br>
 
 
 
