@@ -9,7 +9,7 @@ sidebar:
 ---
       
 
-### Version 3.0.6 (not released yet; scheduled for April 2018)
+## Version 3.0.6 (not released yet; scheduled for April 2018)
 
 **Libraries**
 * *Qt framework* updated to 5.10.1
