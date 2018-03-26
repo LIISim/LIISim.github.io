@@ -20,7 +20,7 @@ description              : "A modular signal processing toolbox for laser-induce
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "LIISim/LIISim3" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/screenshots/2017-07-31_V3.0.4_SignalProcessing.png" # path of fallback teaser image, e.g. 
+teaser                   : "/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" # path of fallback teaser image, e.g. 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Raphael Mansmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"

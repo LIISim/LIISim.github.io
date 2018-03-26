@@ -7,7 +7,7 @@ main:
   - title: "Documentation"
     url: /#documentation
   - title: "Downloads"
-    url: /#downloads  
+    url: /downloads  
   - title: "Source code"
     url: /#source-code  
   - title: "About"
