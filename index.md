@@ -86,6 +86,4 @@ alt="University of Duisburg-Essen" style="height:120px"></a>
 
 {% include feature_row id="feature_row4" type="right" %}
                   
-[Learn more](#){: .btn .btn--primary }    
-[Learn more](#){: .btn .btn--success .btn--large } 
-[Learn more and download](#){: .btn .btn--success .btn--large }
+[Learn more](/about){: .btn .btn--success .btn--large }
