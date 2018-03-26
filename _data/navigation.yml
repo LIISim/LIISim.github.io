@@ -12,6 +12,9 @@ main:
     url: /  
                   
 side_nav:
+  - title: Home
+    url: /
+
   - title: About LIISim
     children:
       - title: "Introduction"
