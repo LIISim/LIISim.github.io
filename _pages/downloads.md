@@ -13,8 +13,6 @@ sidebar:
 
 ### System requirements 
 
-|&nbsp;||
-| ------------------------------------------- | ----------------------------------------------------- |
 | Operating system                            | Windows 7/8/10 |
 | Memory	| 8 GB RAM |
 | Hard drive | 500 MB free hard disk space |
