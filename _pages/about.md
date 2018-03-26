@@ -63,7 +63,7 @@ feature_row4:
   
 ---
 <br>
-**LIISim is a project of** <br>
+###LIISim is a project of
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
@@ -71,7 +71,7 @@ alt="University of Duisburg-Essen" style="height:100px"></a>
 <br>
 
 
-## Authors
+### Authors
 Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](https://www.linkedin.com/in/mansmann){:target="_blank"}
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Raphael_Mansmann){:target="_blank"}
 [<img src="/assets/logos/orcid_16x16.png" style="height:16px">](https://orcid.org/0000-0003-0071-5252){:target="_blank"}
