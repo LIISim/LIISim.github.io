@@ -9,8 +9,8 @@ sidebar:
 ---
       
 
-## Version 3.0.6 (not released yet; scheduled for April 2018)
-
+## Version 3.0.6 
+<i>(not released yet; scheduled for April 2018)</i>
 **Libraries**
 * *Qt framework* updated to 5.10.1
 * *Matio Library* updated to 1.5.11
