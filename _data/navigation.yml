@@ -29,7 +29,7 @@ side_nav_about:
       - title: "License"
         url: /about#license
 
-side_nav_download:                         
+side_nav_downloads:                         
   - title: Downloads
     children:
       - title: "Releases"

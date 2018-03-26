@@ -63,7 +63,8 @@ feature_row4:
   
 ---
 <br>
-###LIISim is a project of
+
+### LIISim is a project of
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
