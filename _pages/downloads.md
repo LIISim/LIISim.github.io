@@ -9,7 +9,7 @@ sidebar:
   #[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } 
 ---
 
-
+<br>
 | System requirements |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Operating system                            | Windows 7/8/10 |
@@ -23,11 +23,25 @@ sidebar:
 We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.
 {: .notice--info}
 
+## Releases
+           
 Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bit). 
 
 | Platform | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
+
+If you make use of this software in your research, please cite:
+R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz,
+\"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
+Appl. Phys. B <b>XX</b> (XX), XX-XX (2018)
+{: .notice--info}
+
+If you make use of this software in your research, please cite:
+R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz,
+\"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
+Appl. Phys. B <b>XX</b> (XX), XX-XX (2018)
+{: .notice--warning}
 
 
 ## Documentation
