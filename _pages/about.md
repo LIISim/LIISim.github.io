@@ -130,13 +130,13 @@ Main features:
   caption="Visualization of spectral temperature fitting using Planck's law. Temperature traces
     that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."  %}
 
-### AnalysisTool: Parameter Analysis
+### Analysis Tool: Parameter Analysis
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png" 
   alt="AnalysisTool: Parameter Analysis" 
   caption="Experimental data can be systematically compared for various parameters
      (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)." %}
 
-### FitCreator
+### Fit Creator
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_FitCreator.png" 
   alt="FitCreator" 
   caption="Select from a variety of heat transfer models and databases for simulation of LII signal
