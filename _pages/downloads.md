@@ -30,7 +30,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 
 
 
-{{site.github}}
+{{site.github.Test}}
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
