@@ -9,6 +9,7 @@ sidebar:
   #[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } 
 ---
 
+
 | System requirements |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Operating system                            | Windows 7/8/10 |

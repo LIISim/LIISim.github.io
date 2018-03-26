@@ -5,7 +5,7 @@ main:
   - title: "Downloads"
     url: /downloads  
   - title: "Source code"
-    url: /sourcecode
+    url: https://github.com/LIISim/LIISim3
   - title: "Home"
     url: /  
                   
@@ -30,10 +30,12 @@ side_nav:
       - title: "Documentation"
         url: /downloads#documentation
       - title: "Source code"
-        url: /sourcecode
+        url: https://github.com/LIISim/LIISim3
             
   - title: Help
     children:
       - title: "Troubleshooting"
-        url: /troubleshooting      
+        url: /troubleshooting
+      - title: "Report bugs"
+        url: https://github.com/LIISim/LIISim3/issues      
   
