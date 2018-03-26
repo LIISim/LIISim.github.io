@@ -9,7 +9,7 @@ sidebar:
 feature_row:
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png
     alt: "SignalProcessingEditor"
-    title: "SignalProcessing"
+    title: "Signal Processing"
     excerpt: "The modular signal processing toolbox allows processing of raw signals, 
     absolute signals and temperature traces. Processing steps can be individually 
     set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."
@@ -20,8 +20,8 @@ feature_row:
 
 feature_row2:    
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_AToolTemperature.png
-    alt: "placeholder image 2"
-    title: "AnalysisTool: Temperature Fit"
+    alt: "Analysis Tool: Temperature Fit"
+    title: "Analysis Tool: Temperature Fit"
     excerpt: "Visualization of spectral temperature fitting using Planck's law. Temperature traces
     that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."    
     url: "/assets/screenshots/2018-03-26_V3.0.6_AToolTemperature.png"
@@ -30,7 +30,8 @@ feature_row2:
 
 feature_row3:        
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png
-    title: "AnalysisTool: Parameter Analysis"
+    alt: "AnalysisTool: Parameter Analysis"
+    title: "Analysis Tool: Parameter Analysis"
     excerpt: "Experimental data can be systematically compared for various parameters
      (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)."                                                        
     url: "/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png"
@@ -39,7 +40,7 @@ feature_row3:
     
 feature_row4:
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_FitCreator.png
-    alt: "placeholder image 2"
+    alt: "FitCreator"
     title: "FitCreator"
     excerpt: 'Select from a variety of heat transfer models and databases for simulation of LII signal
      traces and comparison with experimental data.'                                                                        
@@ -115,6 +116,13 @@ Main features:
 
 
 ## Screenshots
+
+
+{% include figure image_path="/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png"
+alt="Signal Processing" caption="The modular signal processing toolbox allows processing of raw signals, 
+    absolute signals and temperature traces. Processing steps can be individually 
+    set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."
+    url: "/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" %}
 
 {% include feature_row id="feature_row" type="center" %}
 

@@ -38,8 +38,7 @@ feature_row3:
 #    btn_class: "btn--primary"
     
 feature_row4:
-  - image_path: /assets/screenshots/2018-03-26_V3.0.6_FitCreator.png
-    alt: "placeholder image 2"
+  - image_path: /assets/screenshots/2018-03-26_V3.0.6_FitCreator.png    
     title: "FitCreator"
     excerpt: 'Select from a variety of heat transfer models and databases for simulation of LII signal
      traces and comparison with experimental data.'                                                                        
