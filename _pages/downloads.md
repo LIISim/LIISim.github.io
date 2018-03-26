@@ -31,12 +31,6 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | ------------------------------------------- | ----------------------------------------------------- |
 | Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
 
-<b>If you make use of this software in your research, please cite:</b><br><br>
-R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz,
-\"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\",
-Appl. Phys. B <b>XX</b> (XX), XX-XX (2018)<br><br>
-View at publisher: DOI: [DOI 10.1007/XXXXXX.XXXXX](https://doi.org/10.1000/demo_DOI)
-{: .notice--success}
 
 
 ## Documentation
@@ -46,6 +40,13 @@ View at publisher: DOI: [DOI 10.1007/XXXXXX.XXXXX](https://doi.org/10.1000/demo_
 | User manual | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
 | Developer's guide | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
 
+
+## LIISim-MDK
+Additionally to the C++ software, a model development kit (MDK) was written in MATLAB for comparison
+and validation of the integrity of the implemented algorithms. For the MDK the same class structure is
+used and the functionalities are limited to simulation of temperature traces using the same heat-transfer models and databases as of the C++ version.
+The MDK can be used for testing and developing new models before they are integrated in the LIISim framework.
+Source code: [https://github.com/LIISim/LIISim-MDK](https://github.com/LIISim/LIISim-MDK)
 
 ## Source code
 The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
