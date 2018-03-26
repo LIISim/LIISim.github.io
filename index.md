@@ -118,32 +118,6 @@ Main features:
 {% include feature_row id="feature_row4" type="right" %}
 
 
-
-## Documentation
-
-| Document | Version | File|
-| ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.1 (19.01.2018) | [on request](#){: .btn .btn--primary } |
-| Developer's guide | 0.0.0 | [not yet available](#){: .btn .btn--primary } |
-
-
-## Downloads
-
-We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.
-{: .notice--info}
-
-Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bit). 
-
-| Platform | Version | File|
-| ------------------------------------------- | ----------------------------------------------------- |
-| Windows 7/8/10 (x64) | 3.0.6 | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } |
-| Windows 7/8/10 (x32) | 3.0.6 | [not yet available](#){: .btn .btn--info }|
-
-
-## Source code
-The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
-
-
 ## About
 
 **LIISim is a project of** <br>
@@ -151,6 +125,18 @@ The latest source code can be obtained from [GitHub](https://www.github.com/LIIS
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:120px"></a>
+<br>
+
+<b>Authors</b> <br>
+Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](https://www.linkedin.com/in/mansmann){:target="_blank"}
+[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Raphael_Mansmann){:target="_blank"}
+[<img src="/assets/logos/orcid_16x16.png" style="height:16px">](https://orcid.org/0000-0003-0071-5252){:target="_blank"}
+<br>
+Tobias Terheiden 
+[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Tobias_Terheiden){:target="_blank"}
+<br>
+Philip Schmidt 
+[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
 <br>
 
 **History**<br>
@@ -168,17 +154,7 @@ processing steps and choice of heat-transfer models.
 The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
 {: .notice--warning}
   
-<b>Authors</b> <br>
-Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](https://www.linkedin.com/in/mansmann){:target="_blank"}
-[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Raphael_Mansmann){:target="_blank"}
-[<img src="/assets/logos/orcid_16x16.png" style="height:16px">](https://orcid.org/0000-0003-0071-5252){:target="_blank"}
-<br>
-Tobias Terheiden 
-[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Tobias_Terheiden){:target="_blank"}
-<br>
-Philip Schmidt 
-[<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
-<br>
+
 
 
 
