@@ -6,7 +6,7 @@ main:
     url: /about
   - title: "Screenshots"
     url: /screenshots
-    - title: "Downloads"
+  - title: "Downloads"
     url: /downloads  
   - title: "Source code"
     url: /sourcecode  
