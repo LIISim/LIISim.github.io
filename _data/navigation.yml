@@ -29,14 +29,16 @@ side_nav:
         url: /downloads
       - title: "Documentation"
         url: /downloads#documentation
+       
+  - title: Development
       - title: "Source code"
         url: https://github.com/LIISim/LIISim3
       - title: "Model-Development-Kit"
-        url:   
-            
+        url: /MDK
+               
   - title: Help
     children:
       - title: "Troubleshooting"
         url: /troubleshooting
       - title: "Report bugs"
-        url: https://github.com/LIISim/LIISim3/issues      
+        url: https://github.com/LIISim/LIISim3/issues
