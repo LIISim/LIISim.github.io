@@ -12,7 +12,8 @@ main:
     url: /sourcecode  
                   
 side_nav:
-  - title: About LIISim    
+  - title: "About LIISim"
+    url: /about    
     children:
       - title: "Introduction"
         url: /about
