@@ -7,7 +7,7 @@
       "{{ include.image_path | absolute_url }}"
     {% endif %}
     alt="{% if include.alt %}{{ include.alt }}{% endif %}"
-    title="{% include.caption %}{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}">
+    title="{% if include.caption %}{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}{% endif %}">
     </a>
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
