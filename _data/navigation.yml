@@ -25,8 +25,7 @@ side_nav:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-        
-        
+                         
   - title: Downloads
     children:
       - title: "Quick-Start Guide"

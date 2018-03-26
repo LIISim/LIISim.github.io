@@ -258,5 +258,5 @@ defaults:
       comments: false# true
       share: true
       related: true
-       sidebar:
+      sidebar:
         nav: "side_nav"
