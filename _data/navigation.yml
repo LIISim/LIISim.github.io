@@ -10,12 +10,9 @@ main:
     url: /downloads  
   - title: "Source code"
     url: /sourcecode  
-  
-
-
+                  
 side_nav:
-  - title: About LIISim
-    url: /about
+  - title: About LIISim    
     children:
       - title: "Introduction"
         url: /about
