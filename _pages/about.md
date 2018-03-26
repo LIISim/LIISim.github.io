@@ -121,7 +121,11 @@ Main features:
 
 
 ### Signal Processing
-{% include figure_url id="feature_row" %}
+{% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" 
+  alt="Signal Processing" 
+  caption="The modular signal processing toolbox allows processing of raw signals, 
+    absolute signals and temperature traces. Processing steps can be individually 
+    set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."  %}
 
 
 
