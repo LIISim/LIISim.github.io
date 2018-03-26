@@ -4,8 +4,8 @@ main:
     url: /about  
   - title: "Downloads"
     url: /downloads  
-  - title: "Source code"
-    url: https://github.com/LIISim/LIISim3
+  - title: "Support"
+    url: /troubleshooting
   - title: "Home"
     url: /  
                   
@@ -37,7 +37,7 @@ side_nav:
       - title: "Model-Development-Kit"
         url: /MDK
                
-  - title: Help
+  - title: Support
     children:
       - title: "Troubleshooting"
         url: /troubleshooting
