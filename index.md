@@ -22,8 +22,7 @@ feature_row:
     excerpt: "The modular signal processing toolbox allows processing of raw signals, 
     absolute signals and temperature traces. Processing steps can be individually 
     set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools.
-    
-    [Learn more](/about){: .btn .btn--success }"
+    <br><br>[Learn more](/about){: .btn .btn--success }"
     url: "/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
@@ -35,8 +34,7 @@ feature_row2:
     title: "AnalysisTool: Temperature Fit"
     excerpt: "Visualization of spectral temperature fitting using Planck's law. Temperature traces
     that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized.
-    
-    [Learn more](/about){: .btn .btn--success }"    
+    <br><br>[Learn more](/about){: .btn .btn--success }"    
     url: "/assets/screenshots/2018-03-26_V3.0.6_AToolTemperature.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
@@ -46,8 +44,7 @@ feature_row3:
     title: "AnalysisTool: Parameter Analysis"
     excerpt: "Experimental data can be systematically compared for various parameters
      (i.e., laser fluence, LII peak temperature, PMT gain voltage,...).
-      
-     [Learn more](/about){: .btn .btn--success }"                                                        
+     <br><br>[Learn more](/about){: .btn .btn--success }"                                                        
     url: "/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
@@ -58,8 +55,7 @@ feature_row4:
     title: "FitCreator"
     excerpt: 'Select from a variety of heat transfer models and databases for simulation of LII signal
      traces and comparison with experimental data.
-     
-     [Learn more](/about){: .btn .btn--success }'                                                                        
+     <br><br>[Learn more](/about){: .btn .btn--success }'                                                                        
     url: "/assets/screenshots/2018-03-26_V3.0.6_FitCreator.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
