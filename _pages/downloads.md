@@ -6,11 +6,13 @@ permalink: /downloads
 sidebar:
   nav: "side_nav"
   
-  #[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } 
+#[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info }
+#We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.
+#{: .notice--info} 
 ---
 
 
-| System requirements |
+| | System requirements |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Operating system                            | Windows 7/8/10 |
 | Memory	| 8 GB RAM |
@@ -18,10 +20,6 @@ sidebar:
 | Screen resolution | 1920 x 1080 or higher (scaling problems can occur for small notebook displays with high resolution) |
 | Software | Microsoft Visual C++ 2013 Redistributable (<a href="https://www.microsoft.com/en-us/download/details.aspx?id=40784" target="_blank">download here</a>) |
 
-
-
-We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.
-{: .notice--info}
 
 ## Releases
            
@@ -44,12 +42,6 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
             
 
-## LIISim-MDK
-Additionally to the C++ software, a model development kit (MDK) was written in MATLAB for comparison
-and validation of the integrity of the implemented algorithms. For the MDK the same class structure is
-used and the functionalities are limited to simulation of temperature traces using the same heat-transfer models and databases as of the C++ version.
-The MDK can be used for testing and developing new models before they are integrated in the LIISim framework.<br>
-Source code: [https://github.com/LIISim/LIISim-MDK](https://github.com/LIISim/LIISim-MDK)
 
                                 
 
