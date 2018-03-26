@@ -4,7 +4,7 @@ layout: single
 permalink: /downloads
 
 sidebar:
-  nav: "side_nav"
+  nav: "side_nav_downloads"
   
 #[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info }
 #We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.

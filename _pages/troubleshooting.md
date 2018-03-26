@@ -4,7 +4,7 @@ layout: single
 permalink: /troubleshooting
 
 sidebar:
-  nav: "side_nav"
+  nav: "side_nav_support"
                                
 ---
 

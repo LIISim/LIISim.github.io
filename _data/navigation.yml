@@ -15,6 +15,7 @@ side_nav:
   - title: Home
     url: /
 
+side_nav_about:
   - title: About LIISim
     children:
       - title: "Introduction"
@@ -27,14 +28,24 @@ side_nav:
         url: /about#screenshots
       - title: "License"
         url: /about#license
-                         
+
+side_nav_download:                         
   - title: Downloads
     children:
       - title: "Releases"
         url: /downloads
       - title: "Documentation"
         url: /downloads#documentation
-       
+        
+side_nav_support:
+  - title: Support
+    children:
+      - title: "Troubleshooting"
+        url: /troubleshooting
+      - title: "Report bugs"
+        url: https://github.com/LIISim/LIISim3/issues
+        
+side_nav_dev:       
   - title: Development
     children:
       - title: "Changelog"
@@ -44,9 +55,3 @@ side_nav:
       - title: "Model-Development-Kit"
         url: /MDK
                
-  - title: Support
-    children:
-      - title: "Troubleshooting"
-        url: /troubleshooting
-      - title: "Report bugs"
-        url: https://github.com/LIISim/LIISim3/issues

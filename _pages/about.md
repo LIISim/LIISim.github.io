@@ -4,7 +4,7 @@ layout: single
 permalink: /about
 
 sidebar:
-  nav: "side_nav"
+  nav: "side_nav_about"
   
 feature_row:
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png
