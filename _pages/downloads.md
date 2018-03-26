@@ -2,6 +2,10 @@
 title: "Downloads"
 layout: single
 permalink: /downloads
+
+sidebar:
+  nav: "docs"
+
 ---
 
 ## Documentation

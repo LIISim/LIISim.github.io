@@ -4,6 +4,9 @@ author_profile: false
 classes:
   - landing
 
+sidebar:
+  nav: "docs"
+
 date: 2018-03-26
 header:
   overlay_color: "#C0C0C0"
