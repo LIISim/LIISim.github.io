@@ -134,8 +134,7 @@ Main features:
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png" 
   alt="AnalysisTool: Parameter Analysis" 
   caption="Experimental data can be systematically compared for various parameters
-     (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)."                                                        
-    url: "/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png"  %}
+     (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)." %}
 
 ### FitCreator
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_FitCreator.png" 
