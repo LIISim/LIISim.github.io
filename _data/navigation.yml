@@ -20,11 +20,9 @@ side_nav:
       - title: "About"
         url: /about
       - title: "Motivation"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /about/#motivation
+      - title: "History"
+        url: /about/#history
                          
   - title: Downloads
     children:

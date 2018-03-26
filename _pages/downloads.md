@@ -3,6 +3,8 @@ title: "Downloads"
 layout: single
 permalink: /downloads
 
+sidebar:
+  nav: "side_nav"
 ---
 
 ## Documentation
