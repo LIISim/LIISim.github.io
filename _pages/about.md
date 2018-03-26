@@ -65,9 +65,9 @@ feature_row4:
 <br>
 **LIISim is a project of** <br>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
-alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
+alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
-alt="University of Duisburg-Essen" style="height:120px"></a>
+alt="University of Duisburg-Essen" style="height:100px"></a>
 <br>
 
 
@@ -127,7 +127,7 @@ Main features:
 ### Analysis Tool: Temperature Fit
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_AToolTemperature.png" 
   alt="Analysis Tool: Temperature Fit" 
-  caption="TVisualization of spectral temperature fitting using Planck's law. Temperature traces
+  caption="Visualization of spectral temperature fitting using Planck's law. Temperature traces
     that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."  %}
 
 ### AnalysisTool: Parameter Analysis

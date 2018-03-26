@@ -9,8 +9,8 @@ header:
   overlay_color: "#C0C0C0"
   overlay_filter: "0.5"
   overlay_image: /assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png
-  cta_label: "Download"
-  cta_url: "/downloads"
+  cta_label: "Learn more"
+  cta_url: "/about"
   caption: "Screenshot: LIISim V3.0.6 - Signal Processing"
   
 excerpt: "A modular signal processing toolbox for laser-induced incandescence (LII) measurements"
@@ -80,9 +80,9 @@ The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web
                                       
 **LIISim is a project of** <br>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
-alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
+alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
-alt="University of Duisburg-Essen" style="height:120px"></a>
+alt="University of Duisburg-Essen" style="height:100px"></a>
                     
 <br><br> 
 {% include feature_row id="feature_row" type="left" %}

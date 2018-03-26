@@ -19,9 +19,9 @@ side_nav:
       - title: "History"
         url: /about#history
       - title: "Motivation"
-        url: /screenshots#motivation
+        url: /about#motivation
       - title: "Screenshots"
-        url: /screenshots
+        url: /about#screenshots
       - title: "License"
         url: /about#license
                          
