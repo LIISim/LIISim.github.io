@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png
   cta_label: "Download"
-  cta_url: "/#downloads"
+  cta_url: "/downloads"
   caption: "Screenshot: LIISim V3.0.6 - Signal Processing"
   
 excerpt: "A modular signal processing toolbox for laser-induced incandescence (LII) measurements"

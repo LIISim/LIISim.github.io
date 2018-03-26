@@ -1,5 +1,6 @@
 ---
 title: "Downloads"
+layout: single
 permalink: /downloads
 ---
 
