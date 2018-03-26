@@ -7,15 +7,19 @@ sidebar:
   nav: "side_nav"
 ---
 
-## Documentation
-
-| Document | Version | File|
-| ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.1 (19.01.2018) | [on request](#){: .btn .btn--primary } |
-| Developer's guide | 0.0.0 | [not yet available](#){: .btn .btn--primary } |
 
 
-## Downloads
+## Releases
+
+
+| System requirements |  | 
+| Operating system | Windows 7/8/10
+| Memory	| 8 GB RAM
+| Hard drive | 500 MB free hard disk space
+| Screen resolution | 1920 x 1080 or higher (scaling problems can occur for small notebook displays with high resolution)
+| Software | Microsoft Visual C++ 2013 Redistributable (<a href="https://www.microsoft.com/en-us/download/details.aspx?id=40784">download here</a>)
+
+
 
 We are currently in BETA development phase, release is scheduled for Spring 2018. Please feel free to request a BETA release for testing purposes.
 {: .notice--info}
@@ -26,6 +30,14 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | ------------------------------------------- | ----------------------------------------------------- |
 | Windows 7/8/10 (x64) | 3.0.6 | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } |
 | Windows 7/8/10 (x32) | 3.0.6 | [not yet available](#){: .btn .btn--info }|
+
+
+## Documentation
+
+| Document | Version | File|
+| ------------------------------------------- | ----------------------------------------------------- |
+| User manual | 0.0.1 (19.01.2018) | [on request](#){: .btn .btn--primary } |
+| Developer's guide | 0.0.0 | [not yet available](#){: .btn .btn--primary } |
 
 
 ## Source code

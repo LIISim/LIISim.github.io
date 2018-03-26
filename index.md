@@ -88,14 +88,11 @@ alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:120px"></a>
                     
- 
+<br><br> 
 {% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
-
-[Learn more](/about){: .btn .btn--success .btn--large }
-                  
+{% include feature_row id="feature_row4" type="right" %}                
