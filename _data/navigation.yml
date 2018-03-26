@@ -14,8 +14,6 @@ main:
 side_nav:
   - title: About LIISim
     children:
-      - title: "Introduction"
-        url: /about
       - title: "History"
         url: /about#history
       - title: "Motivation"
