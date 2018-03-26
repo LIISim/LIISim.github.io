@@ -1,7 +1,5 @@
 # main links
 main:
-#  - title: "Home"
-#    url: /
   - title: "About"
     url: /about
   - title: "Screenshots"
@@ -9,17 +7,23 @@ main:
   - title: "Downloads"
     url: /downloads  
   - title: "Source code"
-    url: /sourcecode  
+    url: /sourcecode
+  - title: "Home"
+    url: /  
                   
 side_nav:
   - title: AboutLIISim
     children:
-      - title: "Releases"
-        url: /downloads
-      - title: "Documentation"
-        url: /downloads#documentation
-      - title: "Source code"
-        url: /sourcecode
+      - title: "Introduction"
+        url: /about
+      - title: "History"
+        url: /about#history
+      - title: "Motivation"
+        url: /screenshots#motivation
+      - title: "Screenshots"
+        url: /screenshots
+      - title: "License"
+        url: /about#license
                          
   - title: Downloads
     children:
