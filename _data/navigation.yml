@@ -2,6 +2,8 @@
 main:
 #  - title: "Home"
 #    url: /
+  - title: "About"
+    url: /#about
   - title: "Screenshots"
     url: /#screenshots
   - title: "Documentation"
@@ -10,8 +12,7 @@ main:
     url: /downloads  
   - title: "Source code"
     url: /#source-code  
-  - title: "About"
-    url: /#about
+  
 
 
 side_nav:
@@ -19,17 +20,20 @@ side_nav:
     children:
       - title: "About"
         url: /about
-      - title: "Motivation"
-        url: /about/#motivation
       - title: "History"
-        url: /about/#history
+        url: /about#history
+      - title: "Motivation"
+        url: /screenshots#motivation
+      - title: "Screenshots"
+        url: /screenshots
+    
                          
   - title: Downloads
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
+      - title: "Documentation"
+        url: /downloads
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
