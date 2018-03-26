@@ -36,8 +36,8 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 
 | Document | Version | File|
 | ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.1 (19.01.2018) | [on request](#){: .btn .btn--primary } |
-| Developer's guide | 0.0.0 | [not yet available](#){: .btn .btn--primary } |
+| User manual | 0.0.1 (26.03.2018) | [on request](#){: .btn .btn--primary } |
+| Developer's guide | 0.0.1 (26.03.2018) | [not yet available](#){: .btn .btn--primary } |
 
 
 ## Source code
