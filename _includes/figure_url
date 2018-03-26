@@ -1,5 +1,5 @@
 <figure class="{{ include.class }}">
-<a href="{{ include.url }}">{% endif %}
+<a href="{{ include.url }}">
   <img src=
     {% if include.image_path contains "://" %}
       "{{ include.image_path }}"
