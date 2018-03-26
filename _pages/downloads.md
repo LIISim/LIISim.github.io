@@ -5,6 +5,8 @@ permalink: /downloads
 
 sidebar:
   nav: "side_nav"
+  
+  #[Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } 
 ---
 
 
@@ -25,32 +27,20 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 
 | Platform | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Windows 7/8/10 (x64) | 3.0.6 | [Request BETA version](mailto:raphael.mansmann@uni-due.de?subject=LIISim%20BETA%20request%20&body=Hi%20Raphael%2C%0A%0Aplease%20send%20me%20a%20BETA%20version%20of%20LIISim%20for%20testing.){: .btn .btn--info } |
-| Windows 7/8/10 (x32) | 3.0.6 | [not yet available](#){: .btn .btn--info }|
-
-
-
-{{site.github.Test}}
-
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-  * {{repository.releases_url}}  
-{% endfor %}
+| Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
 
 
 ## Documentation
 
 | Document | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.1 (26.03.2018) | [on request](#){: .btn .btn--primary } |
-| Developer's guide | 0.0.1 (26.03.2018) | [not yet available](#){: .btn .btn--primary } |
+| User manual | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
+| Developer's guide | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
 
 
 ## Source code
 The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
-
-
-
+                                            
 
 ## License
 LIISim is free software: you can redistribute it and/or modify it under the terms 
