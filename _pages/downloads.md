@@ -31,13 +31,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | ------------------------------------------- | ----------------------------------------------------- |
 | Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
 
-If you make use of this software in your research, please cite:
-R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz,
-\"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
-Appl. Phys. B <b>XX</b> (XX), XX-XX (2018)
-{: .notice--info}
-
-If you make use of this software in your research, please cite:
+<b>If you make use of this software in your research, please cite:</b><br>
 R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz,
 \"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
 Appl. Phys. B <b>XX</b> (XX), XX-XX (2018)
