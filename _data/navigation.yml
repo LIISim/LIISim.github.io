@@ -13,7 +13,13 @@ main:
                   
 side_nav:
   - title: AboutLIISim
-
+    children:
+      - title: "Releases"
+        url: /downloads
+      - title: "Documentation"
+        url: /downloads#documentation
+      - title: "Source code"
+        url: /sourcecode
                          
   - title: Downloads
     children:
