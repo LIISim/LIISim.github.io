@@ -118,26 +118,11 @@ Main features:
 ## Screenshots
 
 ### Signal Processing
-{% include figure image_path="/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" 
-  alt="Signal Processing" caption="The modular signal processing toolbox allows processing of raw signals, 
-    absolute signals and temperature traces. Processing steps can be individually 
-    set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."  %}
+
 
 ### Signal Processing
-{% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" 
-  alt="Signal Processing" caption="The modular signal processing toolbox allows processing of raw signals, 
-    absolute signals and temperature traces. Processing steps can be individually 
-    set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."  %}
+{% include figure_url id="feature_row" %}
 
-{% include gallery id="feature_row" type="center" %}
-
-{% include feature_row id="feature_row" type="center" %}
-
-{% include feature_row id="feature_row2" type="center" %}
-
-{% include feature_row id="feature_row3" type="center" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 
 ## License
