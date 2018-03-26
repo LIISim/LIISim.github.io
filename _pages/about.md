@@ -118,15 +118,30 @@ Main features:
 ## Screenshots
 
 ### Signal Processing
-
-
-### Signal Processing
 {% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_SignalProcessing.png" 
   alt="Signal Processing" 
   caption="The modular signal processing toolbox allows processing of raw signals, 
     absolute signals and temperature traces. Processing steps can be individually 
     set and arranged. Intermediate processing results can be visualized and analyzed with various plot tools."  %}
 
+### Analysis Tool: Temperature Fit
+{% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_AToolTemperature.png" 
+  alt="Analysis Tool: Temperature Fit" 
+  caption="TVisualization of spectral temperature fitting using Planck's law. Temperature traces
+    that are calculated in the SignalProcessing module can be analyzed and all fitting iterations can be visualized."  %}
+
+### AnalysisTool: Parameter Analysis
+{% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png" 
+  alt="AnalysisTool: Parameter Analysis" 
+  caption="Experimental data can be systematically compared for various parameters
+     (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)."                                                        
+    url: "/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png"  %}
+
+### FitCreator
+{% include figure_url image_path="/assets/screenshots/2018-03-26_V3.0.6_FitCreator.png" 
+  alt="FitCreator" 
+  caption="Select from a variety of heat transfer models and databases for simulation of LII signal
+     traces and comparison with experimental data."  %}
 
 
 ## License
