@@ -11,9 +11,8 @@ sidebar:
 #{: .notice--info} 
 ---
 
+### System requirements 
 
-| | System requirements |
-| ------------------------------------------- | ----------------------------------------------------- |
 | Operating system                            | Windows 7/8/10 |
 | Memory	| 8 GB RAM |
 | Hard drive | 500 MB free hard disk space |
@@ -21,7 +20,7 @@ sidebar:
 | Software | Microsoft Visual C++ 2013 Redistributable (<a href="https://www.microsoft.com/en-us/download/details.aspx?id=40784" target="_blank">download here</a>) |
 
 
-## Releases
+### Releases
            
 Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bit). 
 
@@ -30,7 +29,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
 
                            
-## Documentation
+### Documentation
 
 | Document | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -38,14 +37,14 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bi
 | Developer's guide | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
 
 
-## Source code
+### Source code
 The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
             
 
 
                                 
 
-## License
+### License
 LIISim is free software: you can redistribute it and/or modify it under the terms 
 of the GNU General Public License as published by the Free Software Foundation, 
 either version 3 of the License, or (at your option) any later version.
