@@ -68,17 +68,15 @@ determination of particle sizes. **LIISim** is a framework for basic signal proc
 and analysis of experimental LII data to help researches across the world to compare their 
 experimental data. 
                   
-[Learn more](#){: .btn .btn--primary }                  
-                  
-                  
+The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
+{: .notice--warning}             
+                                      
 **LIISim is a project of** <br>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:120px"></a>
-
-The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web.liisim.com/){:target="_blank"}. 
-{: .notice--warning}
+                    
  
 {% include feature_row id="feature_row" type="left" %}
 
@@ -88,3 +86,6 @@ The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web
 
 {% include feature_row id="feature_row4" type="right" %}
                   
+[Learn more](#){: .btn .btn--primary }    
+[Learn more](#){: .btn .btn--success .btn--large } 
+[Learn more and download](#){: .btn .btn--success .btn--large }

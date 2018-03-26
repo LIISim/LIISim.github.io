@@ -3,22 +3,21 @@ main:
 #  - title: "Home"
 #    url: /
   - title: "About"
-    url: /#about
+    url: /about
   - title: "Screenshots"
-    url: /#screenshots
-  - title: "Documentation"
-    url: /#documentation
-  - title: "Downloads"
+    url: /screenshots
+    - title: "Downloads"
     url: /downloads  
   - title: "Source code"
-    url: /#source-code  
+    url: /sourcecode  
   
 
 
 side_nav:
-  - title: Getting Started
+  - title: About LIISim
+    url: /about
     children:
-      - title: "About"
+      - title: "Introduction"
         url: /about
       - title: "History"
         url: /about#history
@@ -26,15 +25,16 @@ side_nav:
         url: /screenshots#motivation
       - title: "Screenshots"
         url: /screenshots
-    
+       - title: "License"
+        url: /about#license
                          
   - title: Downloads
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Documentation"
+      - title: "Releases"
         url: /downloads
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Documentation"
+        url: /downloads#documentation
+      - title: "Source code"
+        url: /sourcecode
+        
+  

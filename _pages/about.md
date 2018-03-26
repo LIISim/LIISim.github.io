@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Introduction"
 layout: single
 permalink: /about
 
 sidebar:
   nav: "side_nav"
 ---
-
+<br>
 **LIISim is a project of** <br>
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:120px"></a>
@@ -14,7 +14,7 @@ alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:
 alt="University of Duisburg-Essen" style="height:120px"></a>
 <br>
 
-<b>Authors</b> <br>
+## Authors
 Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](https://www.linkedin.com/in/mansmann){:target="_blank"}
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Raphael_Mansmann){:target="_blank"}
 [<img src="/assets/logos/orcid_16x16.png" style="height:16px">](https://orcid.org/0000-0003-0071-5252){:target="_blank"}
@@ -26,7 +26,7 @@ Philip Schmidt
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
 <br>
 
-**History**<br>
+## History
 LIISim was so far known as **console application (LIISim 1.5)** and **web interface (www.liisim.com)**, developed by Max Hofmann 
 between 2001 and 2007. The console application was written in C and the web interface was based on Perl. 
 Modeling settings and file names for experimental data could be defined in DAT files and after execution of the console 
