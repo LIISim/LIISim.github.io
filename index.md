@@ -41,7 +41,8 @@ feature_row3:
   - image_path: /assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png
     title: "AnalysisTool: Parameter Analysis"
     excerpt: "Experimental data can be systematically compared for various parameters
-     (i.e., laser fluence, LII peak temperature, PMT gain voltage,...)."                                                        
+     (i.e., laser fluence, LII peak temperature, PMT gain voltage,...). 
+     [Learn more](/about){: .btn .btn--success .btn--large }"                                                        
     url: "/assets/screenshots/2018-03-26_V3.0.6_ParameterAnalysis.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
@@ -55,6 +56,9 @@ feature_row4:
     url: "/assets/screenshots/2018-03-26_V3.0.6_FitCreator.png"
 #    btn_label: "Zoom in"
 #    btn_class: "btn--primary"
+
+# green large "learn more"-button
+#[Learn more](/about){: .btn .btn--success .btn--large }
 ---
                           
 **Laser-induced incandescence (LII)** is a non-intrusive method of measuring 
@@ -85,5 +89,6 @@ alt="University of Duisburg-Essen" style="height:120px"></a>
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
-                  
+
 [Learn more](/about){: .btn .btn--success .btn--large }
+                  

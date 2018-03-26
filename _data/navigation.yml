@@ -12,7 +12,7 @@ main:
     url: /  
                   
 side_nav:
-  - title: AboutLIISim
+  - title: About LIISim
     children:
       - title: "Introduction"
         url: /about
