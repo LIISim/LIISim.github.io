@@ -18,8 +18,8 @@ side_nav:
   - title: Getting Started
     children:
       - title: "About"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
+        url: /about
+      - title: "Motivation"
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
