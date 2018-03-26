@@ -32,5 +32,10 @@ side_nav:
       - title: "Documentation"
         url: /downloads#documentation
       - title: "Source code"
-        url: /sourcecode        
+        url: /sourcecode
+            
+  - title: Help
+    children:
+      - title: "Troubleshooting"
+        url: /troubleshooting      
   
