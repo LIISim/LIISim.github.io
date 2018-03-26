@@ -12,16 +12,8 @@ main:
     url: /sourcecode  
                   
 side_nav:
-  - title: About LIISim
-    children:
-      - title: "History"
-        url: /about#history
-      - title: "Motivation"
-        url: /screenshots#motivation
-      - title: "Screenshots"
-        url: /screenshots
-       - title: "License"
-        url: /about#license
+  - title: AboutLIISim
+
                          
   - title: Downloads
     children:
