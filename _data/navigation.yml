@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about
-  - title: "Screenshots"
-    url: /screenshots
+    url: /about  
   - title: "Downloads"
     url: /downloads  
   - title: "Source code"
