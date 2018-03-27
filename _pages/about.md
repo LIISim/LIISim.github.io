@@ -83,6 +83,7 @@ Philip Schmidt
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
 <br>
 
+### Publications
 The software is described in the following paper:
 > R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
 > Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)   
