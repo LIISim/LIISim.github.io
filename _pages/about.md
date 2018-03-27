@@ -62,17 +62,16 @@ feature_row4:
     
   
 ---
-The software is described in the following paper:                                                                   
-> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
-> Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)                 
+
+LIISim is a framework for basic signal processing and analysis of experimental 
+LII data to help researches across the world to compare their experimental data.               
 
 ### LIISim is a project of
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:100px"></a>
-<br>
-
+<br>             
 
 ### Authors
 Raphael Mansmann [<img src="/assets/logos/In-2C-14px.png" style="height:15px">](https://www.linkedin.com/in/mansmann){:target="_blank"}
@@ -86,6 +85,9 @@ Philip Schmidt
 [<img src="/assets/logos/RG_square_green.png" style="height:24px">](https://www.researchgate.net/profile/Philip_Schmidt3){:target="_blank"}
 <br>
 
+The software is described in the following paper:
+> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
+> Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)   
 
 ## History
 LIISim was so far known as **console application (LIISim 1.5)** and **web interface (www.liisim.com)**, developed by Max Hofmann 

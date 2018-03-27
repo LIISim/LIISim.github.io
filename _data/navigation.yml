@@ -32,10 +32,14 @@ side_nav_about:
 side_nav_downloads:                         
   - title: Downloads
     children:
-      - title: "Releases"
+      - title: "System requirements"
         url: /downloads
+      - title: "Releases"
+        url: /downloads#releases
       - title: "Documentation"
         url: /downloads#documentation
+      - title: "License"
+        url: /downloads#license
         
 side_nav_support:
   - title: Support
