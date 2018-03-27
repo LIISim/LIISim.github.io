@@ -83,6 +83,9 @@ The old LIISim.com web interface (by Max Hofmann) can be found [here](http://web
 alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:100px"></a>
 <a href="http://www.uni-due.de" target="_blank"><img src="/assets/logos/logo_UDE.png"
 alt="University of Duisburg-Essen" style="height:100px"></a>
+                                                                   
+The software is described in the following paper:                                                                   
+> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)                 
                     
 <br><br> 
 {% include feature_row id="feature_row" type="left" %}

@@ -24,7 +24,7 @@ sidebar:
 
 If you use our software for your research, we would be grateful if you could cite the following paper:
 
-> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a>
+> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)
            
 Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bit). 
 
