@@ -62,9 +62,7 @@ feature_row4:
     
   
 ---
-
-LIISim is a framework for basic signal processing and analysis of experimental 
-LII data to help researches across the world to compare their experimental data.               
+Welcome to LIISim3, a modular signal processing toolbox for time-resolved laser-induced in-candescence measurements written in C++ with the Qt-Framework.              
 
 ### LIISim is a project of
 <a href="http://www.uni-due.de/ivg/rf" target="_blank"><img src="/assets/logos/IVG-Reactive-Fluids.png"
