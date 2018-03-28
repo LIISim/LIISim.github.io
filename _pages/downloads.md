@@ -13,7 +13,7 @@ sidebar:
 
 ### System requirements 
 
-| Operating system                            | Windows 7/8/10 |
+| Operating system                            | Windows 7/8/10 64bit |
 | Memory	| 8 GB RAM |
 | Hard drive | 500 MB free space |
 | Screen resolution | 1920 x 1080 or higher (scaling problems can occur for small notebook displays with high resolution) |
@@ -26,11 +26,11 @@ If you use our software for your research, we would be grateful if you could cit
 > Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)   
  
 ### Releases          
-Pre-compiled binaries are available for Windows 7/8/10 platforms (32bit and 64bit). 
+Pre-compiled binaries are available for Windows 7/8/10 platforms (64bit). 
 
 | Platform | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Windows 7/8/10 (x64/x32) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
+| Windows 7/8/10 (x64) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
 
                            
 ### Documentation

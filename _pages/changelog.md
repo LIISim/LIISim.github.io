@@ -23,7 +23,7 @@ sidebar:
 * Export: MATLAB export reworked, new structure with support of parallel export for 
    unprocessed and processed data, standard deviation, temperature calculator 
    metadata, file compression 
-* Plugin:Tranfer: new plugin for transfering processed signals from raw to 
+* Plugin:Transfer: new plugin for transfering processed signals from raw to 
    absolute processing chain
                 
                 
