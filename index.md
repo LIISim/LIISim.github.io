@@ -85,7 +85,7 @@ alt="Institute for Combustion and Gas Dynamics - Reactive Fluids" style="height:
 alt="University of Duisburg-Essen" style="height:100px"></a>
                                                                    
 The software is described in the following paper:                                                                   
-> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim - A modular signal processing toolbox for laser-induced incandescence measurements\"
+> R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim: a modular signal processing toolbox for laser-induced incandescence measurements\"
 > Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)                 
 <br> 
 {% include feature_row id="feature_row" type="left" %}
