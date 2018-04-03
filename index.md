@@ -97,4 +97,4 @@ The software is described in the following paper:
 {% include feature_row id="feature_row4" type="right" %}                
 
 
-[Get started now](/about){: .btn .btn--info .btn--large .text-center}
+[Get started now](/about){: .btn .btn--info .btn--large .align-center}
