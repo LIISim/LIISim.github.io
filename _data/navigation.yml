@@ -44,7 +44,7 @@ side_nav_downloads:
 side_nav_support:
   - title: Support
     children:
-     - title: "Report bugs"
+      - title: "Report bugs"
         url: /support
       - title: "Troubleshooting"
         url: /support#troubleshooting

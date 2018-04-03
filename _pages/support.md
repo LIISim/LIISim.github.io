@@ -1,7 +1,7 @@
 ---
 title: "Support"
 layout: single
-permalink: /troubleshooting
+permalink: /support
 
 sidebar:
   nav: "side_nav_support"
