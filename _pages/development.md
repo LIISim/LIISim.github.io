@@ -10,22 +10,22 @@ sidebar:
 ---
 
 
-### Source code
+## Source code
 The latest source code can be obtained from the <a href="https://www.github.com/LIISim/LIISim3" target="_blank">GitHub - LIISim3 repository</a>. 
 
 * If you want to compile LIISim3 yourself, you need to copy the latest 'externalLibraries'-package into the LIISim3/src/externalLibraries folder:
   * <a href="https://github.com/LIISim/LIISim3-externalLibraries/releases" target="_blank">LIISim3-externalLibraries releases(.zip)</a>
  
-Please see the developer's guide (Downloads) for further instructions on compiling the source code and required libraries.     
+Please see the developer's guide ([Downloads](/downloads#documentation)) for further instructions on compiling the source code and required libraries.     
 
 
-### Changelog
+## Changelog
       
 Changes and bugfixes for the current LIISim version will be shown on this page after release of the software.
 If you want to get notifications about updates, please write an email to raphael.mansmann@uni-due.de
 
 
-#### Version 3.0.6 (2018-04-03) 
+### Version 3.0.6 (2018-04-03) 
                      
 ##### Libraries
 * *Qt framework* updated to 5.10.1
@@ -68,7 +68,7 @@ If you want to get notifications about updates, please write an email to raphael
 * AnalysisTools - ParameterAnalysis: changed data table resize method, resizing is now possible after table update
 
 
-### LIISim - Model Development Kit (MDK)
+## LIISim - Model Development Kit (MDK)
 
 {% include figure image_path="https://raw.githubusercontent.com/LIISim/LIISim-MDK/master/docs/2018-03-26_MDK.png" 
   alt="LIISim-MDK" %}
@@ -82,7 +82,7 @@ The MDK can be used for testing and developing new models before they are integr
 	* <a href="https://github.com/LIISim/LIISim-MDK/releases/tag/v0.0.1" target="_blank">Version 0.0.1 (2018-04-03)</a>
 
 
-### License
+## License
 LIISim is free software: you can redistribute it and/or modify it under the terms 
 of the GNU General Public License as published by the Free Software Foundation, 
 either version 3 of the License, or (at your option) any later version.
