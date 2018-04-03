@@ -57,7 +57,7 @@ side_nav_dev:
       - title: "Changelog"
         url: /development#changelog      
       - title: "Model-Development-Kit"
-        url: /development
+        url: /development#liisim---model-development-kit-mdk
       - title: "License"
         url: /development#license
                
