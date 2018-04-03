@@ -24,13 +24,13 @@ If you want to get notifications about updates, please write an email to raphael
 
 #### Version 3.0.6 
                         
-***Libraries***
+##### Libraries
 * *Qt framework* updated to 5.10.1
 * *Matio Library* updated to 1.5.11
 * *zlib* version 1.2.11 added for MATLAB file compression support
                 
                                                                
-****Features**** 
+***Features*** 
 * Export: MATLAB export reworked, new structure with support of parallel export for 
    unprocessed and processed data, standard deviation, temperature calculator 
    metadata, file compression 
@@ -38,7 +38,7 @@ If you want to get notifications about updates, please write an email to raphael
    absolute processing chain
                 
                 
-****Bug fixes****
+***Bug fixes***
 * Fixed scaling problems with high DPI displays (http://doc.qt.io/qt-5/highdpi.html)
 * Plugin:Baseline: offset from LIISettings was only applied for first channel
 * Plugin:MultiSignalAverage: when plugin is added, 'end signal'-field is now set to the highest signal number
