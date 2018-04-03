@@ -7,7 +7,7 @@ main:
   - title: "Development"
     url: /changelog
   - title: "Support"
-    url: /troubleshooting
+    url: /support
   - title: "Home"
     url: /  
                   
@@ -48,8 +48,7 @@ side_nav_support:
         url: /support
       - title: "Troubleshooting"
         url: /support#troubleshooting
-     
-        
+                
 side_nav_dev:       
   - title: Development
     children:

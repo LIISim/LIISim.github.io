@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting"
+title: "Support"
 layout: single
 permalink: /troubleshooting
 
@@ -8,6 +8,7 @@ sidebar:
                                
 ---
 
+### Troubleshooting
 
 LIISim is still work-in-progress. If you encounter any errors, please open an issue <a href="https://github.com/LIISim/LIISim3/issues" target="_blank">here</a>
 <br><br>
