@@ -5,7 +5,7 @@ main:
   - title: "Downloads"
     url: /downloads  
   - title: "Development"
-    url: /changelog
+    url: /development
   - title: "Support"
     url: /support
   - title: "Home"
