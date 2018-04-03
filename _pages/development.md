@@ -11,9 +11,12 @@ sidebar:
 
 
 ### Source code
-The latest source code can be obtained from <a href="https://www.github.com/LIISim/LIISim3" target="_blank">GitHub</a>. 
-Please see the developer's guide (Downloads) for further instructions on compiling the source code and required libraries.
+The latest source code can be obtained from the <a href="https://www.github.com/LIISim/LIISim3" target="_blank">GitHub - LIISim3 repository</a>. 
 
+* If you want to compile LIISim3 yourself, you need to copy the latest 'externalLibraries'-package into the LIISim3/src/externalLibraries folder:
+  * <a href="https://github.com/LIISim/LIISim3-externalLibraries/releases" target="_blank">LIISim3-externalLibraries releases(.zip)</a>
+ 
+Please see the developer's guide (Downloads) for further instructions on compiling the source code and required libraries.     
 
 
 ### Changelog
