@@ -23,14 +23,15 @@ If you want to get notifications about updates, please write an email to raphael
 
 
 #### Version 3.0.6 
-                        
+       
+                     
 ##### Libraries
 * *Qt framework* updated to 5.10.1
 * *Matio Library* updated to 1.5.11
 * *zlib* version 1.2.11 added for MATLAB file compression support
                 
                                                                
-***Features*** 
+##### Features 
 * Export: MATLAB export reworked, new structure with support of parallel export for 
    unprocessed and processed data, standard deviation, temperature calculator 
    metadata, file compression 
@@ -38,7 +39,7 @@ If you want to get notifications about updates, please write an email to raphael
    absolute processing chain
                 
                 
-***Bug fixes***
+##### Bug fixes
 * Fixed scaling problems with high DPI displays (http://doc.qt.io/qt-5/highdpi.html)
 * Plugin:Baseline: offset from LIISettings was only applied for first channel
 * Plugin:MultiSignalAverage: when plugin is added, 'end signal'-field is now set to the highest signal number
@@ -53,7 +54,7 @@ If you want to get notifications about updates, please write an email to raphael
 * SignalPlot: channel checkboxes label changed to 'T#' when signal type is temperature.
 
 
-****Other changes****
+##### Other changes
 * ExportDialog: selected export type is now saved/restored across restarts
 * FitSettings: revamped due to scaling issues on high DPI displays 
 * GeneralSettings: default session file name unified to 'iniSession.xml' 
@@ -65,7 +66,7 @@ If you want to get notifications about updates, please write an email to raphael
 * AnalysisTools - ParameterAnalysis: changed data table resize method, resizing is now possible after table update
 
 
-## LIISim - Model Development Kit (MDK)
+### LIISim - Model Development Kit (MDK)
 
 {% include figure image_path="https://raw.githubusercontent.com/LIISim/LIISim-MDK/master/docs/2018-03-26_MDK.png" 
   alt="LIISim-MDK" %}
