@@ -42,7 +42,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (64bit).
 
 
 ### Source code
-The latest source code can be obtained from [GitHub](https://www.github.com/LIISim/LIISim3). Please see the developer's guide for further instructions on compiling the source code and required libraries.
+The latest source code can be obtained from <a href="https://www.github.com/LIISim/LIISim3" target="_blank">GitHub</a>. Please see the developer's guide for further instructions on compiling the source code and required libraries.
             
 
 

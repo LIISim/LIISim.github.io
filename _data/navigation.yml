@@ -44,18 +44,21 @@ side_nav_downloads:
 side_nav_support:
   - title: Support
     children:
+     - title: "Report bugs"
+        url: /support
       - title: "Troubleshooting"
-        url: /troubleshooting
-      - title: "Report bugs"
-        url: https://github.com/LIISim/LIISim3/issues
+        url: /support#troubleshooting
+     
         
 side_nav_dev:       
   - title: Development
     children:
-      - title: "Changelog"
-        url: /changelog
       - title: "Source code"
-        url: https://github.com/LIISim/LIISim3      
+        url: /development#source-code      
+      - title: "Changelog"
+        url: /development#changelog      
       - title: "Model-Development-Kit"
-        url: /MDK
+        url: /development
+      - title: "License"
+        url: /development#license
                
