@@ -30,15 +30,15 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (64bit).
 
 | Platform | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Windows 7/8/10 (x64) | 3.0.6  (26.03.2018) | [available in April 2018](#){: .btn .btn--info }|
+| Windows 7/8/10 (x64) | 3.0.6  (2018-04-03) | [Changelog](https://github.com/LIISim/LIISim3/releases/tag/v3.0.6){: .btn .btn--info } [.zip](https://github.com/LIISim/LIISim3/releases/download/v3.0.6/LIISim_3.0.6_2018-04-03_win_x64.zip){: .btn .btn--info }|
 
                            
 ### Documentation
 
 | Document | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
-| User manual | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
-| Developer's guide | 0.0.1 (26.03.2018) | [available in April 2018](#){: .btn .btn--primary } |
+| User manual | 0.0.1 (2018-04-03) | [.pdf](https://github.com/LIISim/LIISim3/releases/download/v3.0.6/LIISim3_UserGuide_3.0.6.pdf){: .btn .btn--primary } |
+| Developer's guide | 0.0.1 (2018-04-03) | [.pdf](https://github.com/LIISim/LIISim3/releases/download/v3.0.6/LIISim3_DeveloperGuide_3.0.6.pdf){: .btn .btn--primary } |
 
 
 ### Source code
