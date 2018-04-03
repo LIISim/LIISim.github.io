@@ -1,7 +1,7 @@
 ---
 title: "Development"
 layout: single
-permalink: /changelog
+permalink: /development
 
 sidebar:
   nav: "side_nav_dev"
