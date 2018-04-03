@@ -22,8 +22,7 @@ Changes and bugfixes for the current LIISim version will be shown on this page a
 If you want to get notifications about updates, please write an email to raphael.mansmann@uni-due.de
 
 
-#### Version 3.0.6 
-       
+#### Version 3.0.6 (2018-04-03) 
                      
 ##### Libraries
 * *Qt framework* updated to 5.10.1
@@ -73,8 +72,11 @@ If you want to get notifications about updates, please write an email to raphael
 Additionally to the C++ software, a model development kit (MDK) was written in MATLAB for comparison
 and validation of the integrity of the implemented algorithms. For the MDK the same class structure is
 used and the functionalities are limited to simulation of temperature traces using the same heat-transfer models and databases as of the C++ version.
-The MDK can be used for testing and developing new models before they are integrated in the LIISim framework.<br><br>
-<b>Source code:</b> <a href="https://github.com/LIISim/LIISim-MDK" target="_blank">https://github.com/LIISim/LIISim-MDK</a>
+The MDK can be used for testing and developing new models before they are integrated in the LIISim framework.
+* MDK development repository: 
+	* <a href="https://github.com/LIISim/LIISim-MDK" target="_blank">https://github.com/LIISim/LIISim-MDK</a>
+* Download last release: 
+	* <a href="https://github.com/LIISim/LIISim-MDK/releases/tag/v0.0.1" target="_blank">Version 0.0.1 (2018-04-03)</a>
 
 
 ### License
