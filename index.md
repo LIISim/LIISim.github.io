@@ -86,7 +86,7 @@ alt="University of Duisburg-Essen" style="height:100px"></a>
                                                                    
 The software is described in the following paper:                                                                   
 > R. Mansmann, T. Terheiden, P. Schmidt, J. Menser, T. Dreier, T. Endres and C. Schulz: \"LIISim: a modular signal processing toolbox for laser-induced incandescence measurements\"
-> Appl. Phys. B, DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a> (2018)                 
+> Appl. Phys. B <b>124</b>(4), 69 (2018). DOI <a href="https://doi.org/10.1007/s00340-018-6934-9" target="_blank">10.1007/s00340-018-6934-9</a>                  
 <br> 
 {% include feature_row id="feature_row" type="left" %}
 
