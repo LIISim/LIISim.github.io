@@ -39,7 +39,7 @@ Pre-compiled binaries are available for Windows 7/8/10 platforms (64bit).
 | Document | Version | File |
 | ------------------------------------------- | ----------------------------------------------------- |
 | User manual | 3.0.7 (2019-01-04) | [.pdf](https://github.com/LIISim/LIISim3/releases/download/v3.0.7/LIISim3_UserGuide_3.0.7.pdf){: .btn .btn--primary } |
-| Developer's guide | 3.0.7 (2019-01-04) | [.pdf](https://github.com/LIISim/LIISim3/releases/download/v3.0.7/LIISim3_DeveloperGuide_3.0.7.pdf){: .btn .btn--primary } |
+| Developer guide | 3.0.7 (2019-01-04) | [.pdf](https://github.com/LIISim/LIISim3/releases/download/v3.0.7/LIISim3_DeveloperGuide_3.0.7.pdf){: .btn .btn--primary } |
 
 
 ### Source code
